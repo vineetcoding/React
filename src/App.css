@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+/* ========================== */
+
+.btn, .count{
+  width: 10%;
+  height: 5vh;
+  margin: 5%;
+  background-color: rgb(246, 138, 30);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 4vh;
+}
+.footer_div{
+  color: green;
+  font-weight: bolder;
+  padding: 5%;
+  font-size: xx-large;
+}
+.header_div{
+  color: blue;
+  font-weight: bold;
+  font-size: xx-large;
+}
